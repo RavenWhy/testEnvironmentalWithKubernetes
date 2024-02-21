@@ -8,7 +8,7 @@ spec:
     namespace: ""
     server: "https://kubernetes.default.svc"
   source:
-    path: deployment.yaml
+    path: test-app-use-git-action
     repoURL: "https://github.com/whyy9527/test-environmental-with-Kubernetes.git"
     targetRevision: main
   sources: []
