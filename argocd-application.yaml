@@ -4,7 +4,7 @@ metadata:
   name: my-application
 spec:
   destination:
-    namespace: my-namespace
+    namespace: default
     server: "https://kubernetes.default.svc"
   source:
     path: test-app-use-git-action
