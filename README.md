@@ -1,1 +1,0 @@
-# test-environmental-with-kubernetes
